@@ -1,0 +1,26 @@
+body{
+    background-image: url(bg1.html);
+    background-repeat: no-repeat;
+    background-size: 1550px 730px;
+
+}
+h1{
+    text-align: center;
+    margin-top: 200px;
+    font-weight: bold;
+    font-size: 50px;
+}
+button{
+    height: 50px;
+    width: 130px;
+    background-color: red;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+#bt1{
+    margin-left: 615px;
+    margin-right: 10px;
+    
+}
